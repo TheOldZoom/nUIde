@@ -1081,7 +1081,7 @@ function ArchivePage() {
 
       <Stack gap="gap-1" className="py-8">
         <footer className="text-[10px] uppercase tracking-[0.2em] text-muted">
-          zoomhub.xyz · artist archive
+          nUIde · artist archive
         </footer>
 
         <p className="text-[10px] uppercase tracking-[0.15em] text-muted">
