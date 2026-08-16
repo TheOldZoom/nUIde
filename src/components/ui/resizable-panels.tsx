@@ -18,12 +18,10 @@ interface ResizablePanelProps extends HTMLAttributes<HTMLDivElement> {
   defaultSize?: number;
   minSize?: number;
   maxSize?: number;
-  /** @internal injected by ResizablePanelGroup */
   size?: number;
 }
 
 interface ResizableHandleProps extends HTMLAttributes<HTMLDivElement> {
-  /** @internal injected by ResizablePanelGroup */
   direction?: Direction;
   onResizeMove?: (deltaPx: number) => void;
   onResizeStep?: (deltaPct: number) => void;
