@@ -4,6 +4,8 @@
 
 nUIde is a collection of simple, reusable UI components built with **React, TypeScript, Tailwind CSS, and Base UI**.
 
+You can see how it looks [here](https://nuide.zoomhub.xyz/).
+
 ## Components
 
 50+ components including:
@@ -33,7 +35,7 @@ bun install
 bun dev
 ```
 
-## Images
+## Example Images
 
 ![nUIde](.github/images/showcase.png)
 ![nUIde](.github/images/showcase2.png)
