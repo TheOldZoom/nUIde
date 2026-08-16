@@ -358,7 +358,7 @@ function ArchivePage() {
   }
 
   return (
-    <main className="space-y-16">
+    <div className="space-y-16">
       <section className="relative overflow-hidden border-b border-border pb-10">
         <div className="relative h-72 overflow-hidden border-y border-border">
           <Image
@@ -1088,6 +1088,6 @@ function ArchivePage() {
           A functional demonstration of the component library
         </p>
       </Stack>
-    </main>
+    </div>
   );
 }
